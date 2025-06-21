@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"tempconv"
+	tempconv "github.com/ragyakaul/go-basic-examples/12-packags/tempconv"
 )
 
 func main() {
