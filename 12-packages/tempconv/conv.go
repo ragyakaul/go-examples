@@ -9,9 +9,9 @@ func FahrenheitToCelsius(f Fahrenheit) Celsius {
 	return Celsius(result)
 }
 
-func KelvinToCelsius(c Celsius) Kelvin {
-	var result Celsius = c - 273.15
-	return Kelvin(result)
+func KelvinToCelsius(k Kelvin) Celsius {
+	var result Kelvin = k - 273.15
+	return Celsius(result)
 }
 
 func FahrenheitToRankine(f Fahrenheit) Rankine {
